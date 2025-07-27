@@ -29,25 +29,28 @@
 # 连接到服务器
 ssh root@your-server-ip
 
-# 下载部署脚本
-wget https://raw.githubusercontent.com/your-repo/ibox-management/main/deploy.sh
-chmod +x deploy.sh
-```
-
-#### 步骤2: 运行部署脚本
-```bash
-# 执行自动部署
-./deploy.sh
-```
-
-#### 步骤3: 上传项目文件
-```bash
 # 创建项目目录
 mkdir -p /opt/ibox-management
 cd /opt/ibox-management
+```
 
-# 上传项目文件（使用scp或git clone）
-scp -r /path/to/your/project/* root@your-server-ip:/opt/ibox-management/
+#### 步骤2: 上传项目文件
+```bash
+# 方法1: 使用scp上传（从本地Windows）
+scp -r C:\Users\WXF\Desktop\withdraw_web\* root@your-server-ip:/opt/ibox-management/
+
+# 方法2: 使用git clone（如果已上传到GitHub）
+git clone https://github.com/feng04-qyq/gb
+cd ibox-management
+
+# 方法3: 使用rsync（Linux/Mac）
+rsync -avz /path/to/withdraw_web/ root@your-server-ip:/opt/ibox-management/
+```
+
+#### 步骤3: 运行部署脚本
+```bash
+# 执行自动部署
+./deploy.sh
 ```
 
 #### 步骤4: 启动服务
