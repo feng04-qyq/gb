@@ -1,0 +1,85 @@
+{
+  "test123": {
+    "ip": "125.124.120.107",
+    "port": 5634,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 0,
+    "last_used": "2025-07-28 04:36:16"
+  },
+  "16643081089": {
+    "ip": "125.124.178.137",
+    "port": 5605,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 2,
+    "last_used": "2025-07-28 04:52:11"
+  },
+  "16643081980": {
+    "ip": "125.124.146.223",
+    "port": 5612,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 2,
+    "last_used": "2025-07-28 04:52:20"
+  },
+  "proxy_test1": {
+    "ip": "125.124.178.137",
+    "port": 5630,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 3
+  },
+  "retry_test1": {
+    "ip": "125.124.237.186",
+    "port": 5605,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 3
+  },
+  "retry_test2": {
+    "ip": "125.124.211.245",
+    "port": 5637,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 3
+  },
+  "wrong_account": {
+    "ip": "125.124.237.186",
+    "port": 5607,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 1
+  },
+  "test_short": {
+    "ip": "125.124.225.175",
+    "port": 5630,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 1
+  },
+  "test_long": {
+    "ip": "125.124.146.223",
+    "port": 5612,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 1
+  },
+  "test_continuous": {
+    "ip": "125.124.142.161",
+    "port": 5625,
+    "type": "http",
+    "username": "",
+    "password": "",
+    "fail_count": 1
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "ip": "125.124.178.137",
+    "port": 5644,
+    "username": "",
+    "password": "",
+    "type": "http",
+    "enabled": true,
+    "fail_count": 0,
+    "last_used": null
+  },
+  {
+    "ip": "125.124.120.107",
+    "port": 5625,
+    "username": "",
+    "password": "",
+    "type": "http",
+    "enabled": true,
+    "fail_count": 0,
+    "last_used": null
+  },
+  {
+    "ip": "125.124.237.186",
+    "port": 5634,
+    "username": "",
+    "password": "",
+    "type": "http",
+    "enabled": true,
+    "fail_count": 0,
+    "last_used": null
+  },
+  {
+    "ip": "125.124.237.186",
+    "port": 5640,
+    "username": "",
+    "password": "",
+    "type": "http",
+    "enabled": true,
+    "fail_count": 0,
+    "last_used": null
+  },
+  {
+    "ip": "125.124.211.245",
+    "port": 5629,
+    "username": "",
+    "password": "",
+    "type": "http",
+    "enabled": true,
+    "fail_count": 0,
+    "last_used": null
+  }
+]

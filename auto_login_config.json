@@ -1,0 +1,33 @@
+{
+  "enabled": false,
+  "account": "",
+  "password": "",
+  "last_login_date": "",
+  "auto_login_enabled": true,
+  "accounts": [
+    {
+      "account": "16643081089",
+      "password": "ai8888888",
+      "enabled": true,
+      "last_login_date": ""
+    },
+    {
+      "account": "16643081980",
+      "password": "ai8888888",
+      "enabled": true,
+      "last_login_date": ""
+    },
+    {
+      "account": "retry_test1",
+      "password": "pass1",
+      "enabled": true,
+      "last_login_date": ""
+    },
+    {
+      "account": "retry_test2",
+      "password": "pass2",
+      "enabled": true,
+      "last_login_date": ""
+    }
+  ]
+}

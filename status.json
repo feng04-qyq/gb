@@ -1,0 +1,16 @@
+{
+  "16643081089": {
+    "date": "2025-07-28",
+    "signed": false,
+    "sign_msg": "今日已签到",
+    "balance": 85.0,
+    "withdraw_status": "最低提现100.00起"
+  },
+  "16643081980": {
+    "date": "2025-07-28",
+    "signed": false,
+    "sign_msg": "今日已签到",
+    "balance": 0.0,
+    "withdraw_status": "无余额"
+  }
+}
